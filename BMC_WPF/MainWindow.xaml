@@ -1,0 +1,50 @@
+﻿<Controls:MetroWindow x:Class="BMC_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:fa="clr-namespace:FontAwesome.WPF;assembly=FontAwesome.WPF"
+        Title="Beihe Online Shop" Height="1080" Width="1920" WindowStartupLocation="CenterScreen" 
+        WindowState="Maximized" IgnoreTaskbarOnMaximize="True" ResizeMode="NoResize" UseNoneWindowStyle="True"
+        Icon="C:\Users\thelawsaw\Documents\Visual Studio 2013\Projects\BMC_WPF\BMC_WPF\Image\icon.jpg" Background="{x:Null}">
+
+    <Grid>
+        <Grid>
+            <Rectangle HorizontalAlignment="Left" Height="1049" Stroke="#FF5F48D4" VerticalAlignment="Top" Width="1912">
+                <Rectangle.Effect>
+                    <BlurEffect Radius="15"/>
+                </Rectangle.Effect>
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="C:\Users\thelawsaw\Documents\Visual Studio 2013\Projects\BMC_WPF\BMC_WPF\Image\bg.jpg"/>
+                </Rectangle.Fill>
+            </Rectangle>
+
+            <Image HorizontalAlignment="Stretch" Height="260" VerticalAlignment="Top" Width="Auto" Margin="0,20,0,0"
+                   Source="C:\Users\thelawsaw\Documents\Visual Studio 2013\Projects\BMC_WPF\BMC_WPF\Image\BMCfinal.png"/>
+
+            <Grid Height="Auto" Width="Auto"  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="230,670,0,0">
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="btnFb" Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Left"
+                            Height="55" Width="55" BorderBrush="White">
+                        <fa:ImageAwesome Foreground="White" Icon="Facebook" Height="30" Width="30"/>
+                    </Button>
+
+                    <Button x:Name="btnTwit" Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Top"
+                            Height="55" Width="55" BorderBrush="White">
+                        <fa:ImageAwesome Foreground="White" Icon="Twitter" Height="30" Width="30" Margin="2,2,0,0"/>
+                    </Button>
+
+                    <Button x:Name="btnInsta" Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Top"
+                            Height="55" Width="55" BorderBrush="White">
+                        <fa:ImageAwesome Foreground="White" Icon="Instagram" Height="27" Width="27"/>
+                    </Button>
+
+                    <Button x:Name="btnGmail" Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Top"
+                        Height="55" Width="55" BorderBrush="White">
+                        <fa:ImageAwesome Foreground="White" Icon="GooglePlus" Height="28" Width="28" Margin="1,1"/>
+                    </Button>
+                </StackPanel>
+            </Grid>
+            <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" HorizontalAlignment="Center" Height="380" VerticalAlignment="Top" Width="1920"  Margin="0,280,0,0"/>
+        </Grid>
+    </Grid>
+</Controls:MetroWindow>    

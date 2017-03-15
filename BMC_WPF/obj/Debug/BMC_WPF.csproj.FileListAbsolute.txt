@@ -1,0 +1,62 @@
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\bin\Debug\BMC_WPF.exe.config
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\bin\Debug\BMC_WPF.exe
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\bin\Debug\BMC_WPF.pdb
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.csprojResolveAssemblyReference.cache
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\MainWindow.baml
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\MainWindow.g.cs
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\App.g.cs
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF_MarkupCompile.cache
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.g.resources
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.Properties.Resources.resources
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.csproj.GenerateResource.Cache
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.exe
+c:\users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.pdb
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\bin\Debug\MahApps.Metro.dll
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\bin\Debug\MahApps.Metro.xml
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\App.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\bin\Debug\BMC_WPF.exe.config
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.exe
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.pdb
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\CustomersWindow.baml
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\CustomersWindow.g.cs
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\OwnerWindow.baml
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\OwnerWindow.g.cs
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\OrderWindow.baml
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\OrderWindow.g.cs
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\bin\Debug\FontAwesome.WPF.dll
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\Pages\CustomerPages\CustomerPage.baml
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\Pages\MainWindowPages\LoginPage.baml
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\Pages\CustomerPages\CustomerPage.g.cs
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\Pages\MainWindowPages\LoginPage.g.cs
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\Pages\MainWindowPages\SignupPage.baml
+C:\Users\thelawsaw\documents\visual studio 2013\Projects\BMC_WPF\BMC_WPF\obj\Debug\Pages\MainWindowPages\SignupPage.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\bin\Debug\BMC_WPF.exe
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\bin\Debug\BMC_WPF.pdb
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\bin\Debug\FontAwesome.WPF.dll
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\bin\Debug\MahApps.Metro.dll
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\bin\Debug\MahApps.Metro.xml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.csprojResolveAssemblyReference.cache
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\CustomersWindow.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\MainWindow.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\OrderWindow.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\OwnerWindow.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\Pages\CustomerPages\CustomerPage.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\Pages\MainWindowPages\LoginPage.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\Pages\MainWindowPages\SignupPage.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\App.baml
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\CustomersWindow.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\OrderWindow.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\OwnerWindow.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\Pages\CustomerPages\CustomerPage.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\Pages\MainWindowPages\LoginPage.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\Pages\MainWindowPages\SignupPage.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\App.g.cs
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF_MarkupCompile.cache
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.g.resources
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.Properties.Resources.resources
+C:\Users\thelawsaw\Desktop\BMC_WPF\BMC_WPF\obj\Debug\BMC_WPF.csproj.GenerateResource.Cache
